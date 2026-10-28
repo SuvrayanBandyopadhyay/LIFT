@@ -1,7 +1,7 @@
 # LIFT: A Lightweight Image Forensics Framework for Tampering Detection and Localization
 
 ## Introduction
-Image tampering poses a significant challenge to the reliability and trustworthiness of digital media. In this work, we propose Untampered, a lightweight architecture for image tampering localization and detection. The proposed framework uses a U-Net based module in tandem with a CNN based classifier to perform both pixel-level and image-level tampering detection.
+Image tampering poses a significant challenge to the reliability and trustworthiness of digital media. In this work, we propose LIFT, a lightweight architecture for image tampering localization and detection. The proposed framework uses a U-Net based module in tandem with a CNN based classifier to perform both pixel-level and image-level tampering detection.
 
 ##  Overall Architecture
 <img width="1432" height="548" alt="Overall" src="https://github.com/user-attachments/assets/28e6dfa6-c6c2-41e7-a7fe-16893ce25dd4" />

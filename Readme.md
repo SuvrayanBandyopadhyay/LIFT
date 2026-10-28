@@ -14,7 +14,8 @@ The framework combines three input representations:
 
 ## Overall Architecture
 
-<img width="1432" height="548" alt="Overall" src="https://github.com/user-attachments/assets/28e6dfa6-c6c2-41e7-a7fe-16893ce25dd4" />
+<img width="2830" height="740" alt="overall" src="https://github.com/user-attachments/assets/a166966f-89b8-4978-adfe-2c8fecec24b5" />
+
 
 ## Key Features
 
